@@ -310,7 +310,7 @@ int main()
                     goto c;
                 }
                 break;
-                case 7:
+                case 6:
                     system("cls");
                     printf("\n\n\n\n");
                     printf("\t ----------------------------------------------------\n");
